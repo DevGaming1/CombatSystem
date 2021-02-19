@@ -4237,3 +4237,119 @@ Script call stack:
 [2021.02.19-19.55.09:301][468]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode]
 [2021.02.19-19.55.09:314][468]LogSavePackage: Moving '../../../../../Unreal_Projects/CombatSystem/CombatSystem/Saved/ThirdPersonGameMode_Auto331D34597419FD2A980D00C8C09CE85FF.tmp' to '../../../../../Unreal_Projects/CombatSystem/CombatSystem/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode_Auto3.uasset'
 [2021.02.19-19.55.09:315][468]LogFileHelpers: Auto-saving content packages took 0.015
+[2021.02.19-19.55.41:079][800]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.02.19-20.02.18:815][252]LogSlate: Window 'Source Control Login' being destroyed
+[2021.02.19-20.05.14:631][399]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/Attack_RMB.Attack_RMB
+[2021.02.19-20.05.14:642][399]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/Attack_RMB.Attack_RMB
+[2021.02.19-20.05.14:650][399]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.02.19-20.05.15:280][399]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.02.19-20.05.20:990][957]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2021.02.19-20.05.20:991][957]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.19-20.05.21:028][957]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2021.02.19-20.05.21:028][957]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.19-20.05.21:153][957]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2021.02.19-20.05.21:153][957]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.19-20.05.50:578][881]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/Bound.Bound
+[2021.02.19-20.05.50:619][881]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/Bound.Bound
+[2021.02.19-20.05.50:625][881]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_39:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.02.19-20.05.51:066][881]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.02.19-20.05.53:974][176]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2021.02.19-20.05.53:974][176]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.19-20.05.54:011][176]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2021.02.19-20.05.54:011][176]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.19-20.05.54:094][176]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2021.02.19-20.05.54:095][176]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.19-20.07.49:615][790]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/Deflect_InPlace.Deflect_InPlace
+[2021.02.19-20.07.49:645][790]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/Deflect_InPlace.Deflect_InPlace
+[2021.02.19-20.07.49:653][790]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_42:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.02.19-20.07.50:141][790]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.02.19-20.12.39:944][552]LogAssetEditorSubsystem: Opening Asset editor for PhysicsAsset /Game/ParagonGreystone/Characters/Heroes/Greystone/Meshes/Greystone_PhysicsAsset.Greystone_PhysicsAsset
+[2021.02.19-20.12.40:427][552]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_45:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2021.02.19-20.12.45:281][843]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/ParagonGreystone/Characters/Heroes/Greystone/Greystone_AnimBlueprint.Greystone_AnimBlueprint
+[2021.02.19-20.12.45:414][843]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_47:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.02.19-20.15.54:057][938]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2021.02.19-20.15.54:057][938]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.19-20.15.54:096][938]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2021.02.19-20.15.54:096][938]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.19-20.15.54:324][938]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2021.02.19-20.15.54:324][938]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.19-20.15.55:703][ 28]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2021.02.19-20.15.55:703][ 28]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.19-20.15.56:929][151]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2021.02.19-20.15.56:929][151]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.19-20.15.56:956][151]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2021.02.19-20.15.56:956][151]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.19-20.15.57:038][151]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2021.02.19-20.15.57:038][151]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.19-20.16.05:810][  2]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/HitReact_Right.HitReact_Right
+[2021.02.19-20.16.05:846][  2]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/HitReact_Right.HitReact_Right
+[2021.02.19-20.16.05:855][  2]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_49:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.02.19-20.16.06:417][  2]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.02.19-20.16.09:700][298]LogWorld: UWorld::CleanupWorld for World_49, bSessionEnded=true, bCleanupResources=true
+[2021.02.19-20.16.09:700][298]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.19-20.16.09:731][298]LogWorld: UWorld::CleanupWorld for World_51, bSessionEnded=true, bCleanupResources=true
+[2021.02.19-20.16.09:731][298]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.19-20.16.09:806][298]LogWorld: UWorld::CleanupWorld for World_50, bSessionEnded=true, bCleanupResources=true
+[2021.02.19-20.16.09:806][298]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.19-20.16.35:544][747]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/HitReact_Front.HitReact_Front
+[2021.02.19-20.16.35:544][747]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/HitReact_Back.HitReact_Back
+[2021.02.19-20.16.35:562][747]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/HitReact_Front.HitReact_Front
+[2021.02.19-20.16.35:569][747]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.02.19-20.16.36:112][747]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.02.19-20.16.38:415][943]LogWorld: UWorld::CleanupWorld for World_52, bSessionEnded=true, bCleanupResources=true
+[2021.02.19-20.16.38:415][943]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.19-20.16.38:444][943]LogWorld: UWorld::CleanupWorld for World_54, bSessionEnded=true, bCleanupResources=true
+[2021.02.19-20.16.38:444][943]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.19-20.16.38:525][943]LogWorld: UWorld::CleanupWorld for World_53, bSessionEnded=true, bCleanupResources=true
+[2021.02.19-20.16.38:525][943]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.19-20.16.40:981][134]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/HitReact_Back.HitReact_Back
+[2021.02.19-20.16.40:986][134]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_55:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.02.19-20.16.41:547][134]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.02.19-20.16.43:214][271]LogWorld: UWorld::CleanupWorld for World_55, bSessionEnded=true, bCleanupResources=true
+[2021.02.19-20.16.43:214][271]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.19-20.16.43:242][271]LogWorld: UWorld::CleanupWorld for World_57, bSessionEnded=true, bCleanupResources=true
+[2021.02.19-20.16.43:242][271]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.19-20.16.43:320][271]LogWorld: UWorld::CleanupWorld for World_56, bSessionEnded=true, bCleanupResources=true
+[2021.02.19-20.16.43:320][271]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.19-20.21.24:511][236]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.02.19-20.21.28:237][491]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Greystone_AnimBlueprint)
+[2021.02.19-20.21.30:641][612]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.02.19-20.21.39:983][182]LogUObjectHash: Compacting FUObjectHashTables data took   6.08ms
+[2021.02.19-20.21.40:049][182]LogSavePackage: Moving '../../../../../Unreal_Projects/CombatSystem/CombatSystem/Saved/ThirdPersonExampleMap4B52FC2343839E7D924E4E9BBCB529FB.tmp' to '../../../../../Unreal_Projects/CombatSystem/CombatSystem/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.02.19-20.21.40:279][182]LogSavePackage: Moving '../../../../../Unreal_Projects/CombatSystem/CombatSystem/Saved/ThirdPersonExampleMap_BuiltData8E008FCD4DE5B713DA67C38815902F02.tmp' to '../../../../../Unreal_Projects/CombatSystem/CombatSystem/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.02.19-20.21.40:289][182]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.19-20.21.40:289][182]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.02.19-20.21.40:289][182]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.02.19-20.21.45:841][496]SourceControl: fatal: G:/Unreal Engine/UE_4.26/Engine/Content: 'G:/Unreal Engine/UE_4.26/Engine/Content' is outside repository at 'G:/Unreal_Projects/CombatSystem'
+[2021.02.19-20.21.45:841][496]SourceControl: fatal: G:/Unreal Engine/UE_4.26/Engine/Plugins/2D/Paper2D/Content: 'G:/Unreal Engine/UE_4.26/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'G:/Unreal_Projects/CombatSystem'
+[2021.02.19-20.21.45:841][496]SourceControl: fatal: G:/Unreal Engine/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content: 'G:/Unreal Engine/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'G:/Unreal_Projects/CombatSystem'
+[2021.02.19-20.21.45:841][496]SourceControl: fatal: G:/Unreal Engine/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'G:/Unreal Engine/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'G:/Unreal_Projects/CombatSystem'
+[2021.02.19-20.21.45:842][496]SourceControl: fatal: G:/Unreal Engine/UE_4.26/Engine/Plugins/FX/Niagara/Content: 'G:/Unreal Engine/UE_4.26/Engine/Plugins/FX/Niagara/Content' is outside repository at 'G:/Unreal_Projects/CombatSystem'
+[2021.02.19-20.21.45:842][496]SourceControl: fatal: G:/Unreal Engine/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content: 'G:/Unreal Engine/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'G:/Unreal_Projects/CombatSystem'
+[2021.02.19-20.21.45:842][496]SourceControl: fatal: G:/Unreal Engine/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'G:/Unreal Engine/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'G:/Unreal_Projects/CombatSystem'
+[2021.02.19-20.21.45:842][496]SourceControl: fatal: G:/Unreal Engine/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content: 'G:/Unreal Engine/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'G:/Unreal_Projects/CombatSystem'
+[2021.02.19-20.21.45:842][496]SourceControl: fatal: G:/Unreal Engine/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'G:/Unreal Engine/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'G:/Unreal_Projects/CombatSystem'
+[2021.02.19-20.21.45:842][496]SourceControl: fatal: G:/Unreal Engine/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'G:/Unreal Engine/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'G:/Unreal_Projects/CombatSystem'
+[2021.02.19-20.21.45:842][496]SourceControl: fatal: G:/Unreal Engine/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content: 'G:/Unreal Engine/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'G:/Unreal_Projects/CombatSystem'
+[2021.02.19-20.21.45:842][496]SourceControl: fatal: G:/Unreal Engine/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content: 'G:/Unreal Engine/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'G:/Unreal_Projects/CombatSystem'
+[2021.02.19-20.21.45:842][496]SourceControl: fatal: G:/Unreal Engine/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content: 'G:/Unreal Engine/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'G:/Unreal_Projects/CombatSystem'
+[2021.02.19-20.21.45:842][496]SourceControl: fatal: G:/Unreal Engine/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content: 'G:/Unreal Engine/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'G:/Unreal_Projects/CombatSystem'
+[2021.02.19-20.21.45:842][496]SourceControl: fatal: G:/Unreal Engine/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'G:/Unreal Engine/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'G:/Unreal_Projects/CombatSystem'
+[2021.02.19-20.21.45:842][496]SourceControl: fatal: G:/Unreal Engine/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'G:/Unreal Engine/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'G:/Unreal_Projects/CombatSystem'
+[2021.02.19-20.21.45:842][496]SourceControl: fatal: G:/Unreal Engine/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content: 'G:/Unreal Engine/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'G:/Unreal_Projects/CombatSystem'
+[2021.02.19-20.21.45:842][496]SourceControl: fatal: G:/Unreal Engine/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content: 'G:/Unreal Engine/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'G:/Unreal_Projects/CombatSystem'
+[2021.02.19-20.21.45:842][496]SourceControl: fatal: G:/Unreal Engine/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content: 'G:/Unreal Engine/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'G:/Unreal_Projects/CombatSystem'
+[2021.02.19-20.21.45:842][496]SourceControl: fatal: G:/Unreal Engine/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'G:/Unreal Engine/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'G:/Unreal_Projects/CombatSystem'
+[2021.02.19-20.21.45:842][496]SourceControl: fatal: G:/Unreal Engine/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'G:/Unreal Engine/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'G:/Unreal_Projects/CombatSystem'
+[2021.02.19-20.21.46:853][496]LogUObjectHash: Compacting FUObjectHashTables data took   4.54ms
+[2021.02.19-20.21.46:886][496]LogSavePackage: Moving '../../../../../Unreal_Projects/CombatSystem/CombatSystem/Saved/ThirdPersonExampleMap41AC6B3F4B54B4635B8F2C8D698E45D8.tmp' to '../../../../../Unreal_Projects/CombatSystem/CombatSystem/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.02.19-20.21.46:901][496]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.119
+[2021.02.19-20.21.47:005][496]LogSavePackage: Moving '../../../../../Unreal_Projects/CombatSystem/CombatSystem/Saved/ThirdPersonExampleMap_BuiltData9EED39B34B966CB868190EB6067E9A93.tmp' to '../../../../../Unreal_Projects/CombatSystem/CombatSystem/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.02.19-20.21.54:579][496]LogSlate: Window 'Submit Files' being destroyed
+[2021.02.19-20.21.59:243][496]LogSourceControl: commit successful: [main d2dde66] Autosave
+[2021.02.19-20.21.59:422][496]SourceControl: [main d2dde66] Autosave
+[2021.02.19-20.21.59:422][496]SourceControl:  2 files changed, 0 insertions(+), 0 deletions(-)
+[2021.02.19-20.21.59:435][496]SourceControl: Commited [main d2dde66] Autosave.
+[2021.02.19-20.21.59:495][497]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.19-20.21.59:495][497]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.02.19-20.21.59:496][497]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
