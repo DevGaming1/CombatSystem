@@ -3998,3 +3998,227 @@ Script call stack:
 [2021.02.19-19.15.36:942][423]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode
 [2021.02.19-19.15.36:942][423]LogContentValidation: Display: Validating AnimSequence /Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/Death.Death
 [2021.02.19-19.15.36:942][423]LogContentValidation: Display: Validating Blueprint /Game/AnimNotifiers/ANS_Melee.ANS_Melee
+[2021.02.19-19.30.51:724][829]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2021.02.19-19.30.55:330][111]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.02.19-19.33.36:792][281]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall10)
+[2021.02.19-19.33.38:834][458]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.02.19-19.33.39:698][558]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.19-19.33.39:708][558]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.19-19.33.39:709][558]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 19, 2021, 11:33:39 PM)
+[2021.02.19-19.33.39:709][558]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.02.19-19.33.39:723][558]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014241s)
+[2021.02.19-19.33.39:724][558]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.02.19-19.33.39:725][558]LogPlayLevel: PIE: World Init took: (0.001926s)
+[2021.02.19-19.33.39:725][558]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.016316s)
+[2021.02.19-19.33.39:764][558]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2021.02.19-19.33.39:773][558]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2021.02.19-19.33.39:773][558]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.19-19.33.39:773][558]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.19-19.33.39:773][558]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.19-19.33.39:773][558]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.19-19.33.39:773][558]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.19-19.33.39:773][558]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.19-19.33.39:773][558]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.19-19.33.39:773][558]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.19-19.33.39:774][558]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.19-19.33.39:774][558]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.19-19.33.39:795][558]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.19-19.33.39:795][558]LogAudioMixer: Display: 1: FrontRight
+[2021.02.19-19.33.39:806][558]LogAudioMixer: Display: Using Audio Device Speakers (3- USB PnP Sound Device)
+[2021.02.19-19.33.39:807][558]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.19-19.33.39:807][558]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.19-19.33.39:807][558]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.19-19.33.39:808][558]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.19-19.33.39:808][558]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.19-19.33.39:808][558]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.02.19-19.33.39:822][558]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.19-19.33.39:823][558]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.19-19.33.39:823][558]LogInit: FAudioDevice initialized.
+[2021.02.19-19.33.39:823][558]LogAudio: Display: Audio Device (ID: 15) registered with world 'ThirdPersonExampleMap'.
+[2021.02.19-19.33.39:829][558]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.02.19-19.33.39:832][558]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonGreystone/Characters/Heroes/Greystone/Greystone_AnimBlueprint.Greystone_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonGreystone/Characters/Heroes/Greystone/Greystone_AnimBlueprint.Greystone_AnimBlueprint_C:ExecuteUbergraph_Greystone_AnimBlueprint
+
+[2021.02.19-19.33.39:832][558]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.02.19-21.33.39
+[2021.02.19-19.33.39:833][558]LogWorld: Bringing up level for play took: 0.002942
+[2021.02.19-19.33.39:833][558]LogOnline: OSS: Creating online subsystem instance for: :Context_50
+[2021.02.19-19.33.39:836][558]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonGreystone/Characters/Heroes/Greystone/Greystone_AnimBlueprint.Greystone_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonGreystone/Characters/Heroes/Greystone/Greystone_AnimBlueprint.Greystone_AnimBlueprint_C:ExecuteUbergraph_Greystone_AnimBlueprint
+
+[2021.02.19-19.33.39:837][558]PIE: Server logged in
+[2021.02.19-19.33.39:838][558]PIE: Play in editor total start time 0.13 seconds.
+[2021.02.19-19.33.42:044][820]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/LevelStart_Montage.LevelStart_Montage'
+[2021.02.19-19.33.42:044][820]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/LevelStart_Montage.LevelStart_Montage'
+[2021.02.19-19.33.46:411][344]LogBlueprintUserMessages: [GreystonePlayerCharacter_2] 10.0
+[2021.02.19-19.33.47:804][511]LogBlueprintUserMessages: [GreystonePlayerCharacter_2] 10.0
+[2021.02.19-19.33.48:404][583]LogBlueprintUserMessages: [GreystonePlayerCharacter_2] 10.0
+[2021.02.19-19.33.49:271][687]LogBlueprintUserMessages: [GreystonePlayerCharacter_2] 10.0
+[2021.02.19-19.33.50:338][815]LogBlueprintUserMessages: [GreystonePlayerCharacter_2] 10.0
+[2021.02.19-19.33.50:929][886]LogBlueprintUserMessages: [GreystonePlayerCharacter_2] 10.0
+[2021.02.19-19.33.51:796][990]LogBlueprintUserMessages: [GreystonePlayerCharacter_2] 10.0
+[2021.02.19-19.33.52:863][118]LogBlueprintUserMessages: [GreystonePlayerCharacter_2] 10.0
+[2021.02.19-19.33.53:454][189]LogBlueprintUserMessages: [GreystonePlayerCharacter_2] 10.0
+[2021.02.19-19.33.54:823][350]LogBlueprintUserMessages: [GreystonePlayerCharacter_2] 10.0
+[2021.02.19-19.34.19:226][272]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.19-19.34.19:226][272]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.02.19-19.34.19:226][272]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.19-19.34.19:226][272]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.19-19.34.19:236][272]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.19-19.34.19:259][272]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.19-19.34.19:294][272]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.19-19.34.19:295][272]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.19-19.34.19:296][272]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.19-19.34.19:316][272]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.19-19.34.19:321][272]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2021.02.19-19.34.19:378][273]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2021.02.19-19.34.38:515][665]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2021.02.19-19.34.39:871][805]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.19-19.34.39:882][805]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.19-19.34.39:882][805]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 19, 2021, 11:34:39 PM)
+[2021.02.19-19.34.39:905][805]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.02.19-19.34.39:917][805]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012671s)
+[2021.02.19-19.34.39:919][805]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.02.19-19.34.39:919][805]LogPlayLevel: PIE: World Init took: (0.001752s)
+[2021.02.19-19.34.39:919][805]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014631s)
+[2021.02.19-19.34.39:951][805]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2021.02.19-19.34.39:954][805]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2021.02.19-19.34.39:954][805]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.19-19.34.39:954][805]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.19-19.34.39:955][805]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.19-19.34.39:955][805]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.19-19.34.39:955][805]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.19-19.34.39:955][805]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.19-19.34.39:955][805]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.19-19.34.39:955][805]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.19-19.34.39:955][805]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.19-19.34.39:955][805]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.19-19.34.39:958][805]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.19-19.34.39:959][805]LogAudioMixer: Display: 1: FrontRight
+[2021.02.19-19.34.39:968][805]LogAudioMixer: Display: Using Audio Device Speakers (3- USB PnP Sound Device)
+[2021.02.19-19.34.39:969][805]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.19-19.34.39:969][805]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.19-19.34.39:969][805]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.19-19.34.39:969][805]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.19-19.34.39:969][805]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.19-19.34.39:969][805]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.02.19-19.34.39:984][805]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.19-19.34.39:984][805]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.19-19.34.39:984][805]LogInit: FAudioDevice initialized.
+[2021.02.19-19.34.39:984][805]LogAudio: Display: Audio Device (ID: 16) registered with world 'ThirdPersonExampleMap'.
+[2021.02.19-19.34.39:995][805]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.02.19-19.34.39:998][805]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonGreystone/Characters/Heroes/Greystone/Greystone_AnimBlueprint.Greystone_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonGreystone/Characters/Heroes/Greystone/Greystone_AnimBlueprint.Greystone_AnimBlueprint_C:ExecuteUbergraph_Greystone_AnimBlueprint
+
+[2021.02.19-19.34.39:998][805]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.02.19-21.34.39
+[2021.02.19-19.34.39:999][805]LogWorld: Bringing up level for play took: 0.002591
+[2021.02.19-19.34.39:999][805]LogOnline: OSS: Creating online subsystem instance for: :Context_51
+[2021.02.19-19.34.40:001][805]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonGreystone/Characters/Heroes/Greystone/Greystone_AnimBlueprint.Greystone_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonGreystone/Characters/Heroes/Greystone/Greystone_AnimBlueprint.Greystone_AnimBlueprint_C:ExecuteUbergraph_Greystone_AnimBlueprint
+
+[2021.02.19-19.34.40:003][805]PIE: Server logged in
+[2021.02.19-19.34.40:003][805]PIE: Play in editor total start time 0.122 seconds.
+[2021.02.19-19.34.42:222][ 57]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/LevelStart_Montage.LevelStart_Montage'
+[2021.02.19-19.34.42:222][ 57]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/LevelStart_Montage.LevelStart_Montage'
+[2021.02.19-19.34.44:723][347]LogBlueprintUserMessages: [GreystonePlayerCharacter_2] 10.0
+[2021.02.19-19.34.46:179][512]LogBlueprintUserMessages: [GreystonePlayerCharacter_2] 10.0
+[2021.02.19-19.34.47:938][715]LogBlueprintUserMessages: [GreystonePlayerCharacter_2] 10.0
+[2021.02.19-19.34.50:521][ 12]LogBlueprintUserMessages: [GreystonePlayerCharacter_2] 10.0
+[2021.02.19-19.34.51:713][150]LogBlueprintUserMessages: [GreystonePlayerCharacter_2] 10.0
+[2021.02.19-19.34.52:304][219]LogBlueprintUserMessages: [GreystonePlayerCharacter_2] 10.0
+[2021.02.19-19.34.53:181][322]LogBlueprintUserMessages: [GreystonePlayerCharacter_2] 10.0
+[2021.02.19-19.34.54:240][446]LogBlueprintUserMessages: [GreystonePlayerCharacter_2] 10.0
+[2021.02.19-19.34.54:836][516]LogBlueprintUserMessages: [GreystonePlayerCharacter_2] 10.0
+[2021.02.19-19.34.55:702][618]LogBlueprintUserMessages: [GreystonePlayerCharacter_2] 10.0
+[2021.02.19-19.35.11:575][707]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.19-19.35.11:575][707]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.02.19-19.35.11:576][707]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.19-19.35.11:576][707]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.19-19.35.11:588][707]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.19-19.35.11:607][707]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.19-19.35.11:632][707]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.19-19.35.11:633][707]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.19-19.35.11:634][707]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.19-19.35.11:650][707]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.19-19.35.11:655][707]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2021.02.19-19.35.11:693][708]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2021.02.19-19.35.13:713][903]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.19-19.35.13:728][903]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.19-19.35.13:728][903]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 19, 2021, 11:35:13 PM)
+[2021.02.19-19.35.13:728][903]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.02.19-19.35.13:747][903]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018360s)
+[2021.02.19-19.35.13:748][903]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.02.19-19.35.13:748][903]LogPlayLevel: PIE: World Init took: (0.001635s)
+[2021.02.19-19.35.13:748][903]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.020200s)
+[2021.02.19-19.35.13:787][903]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2021.02.19-19.35.13:790][903]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2021.02.19-19.35.13:790][903]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.19-19.35.13:790][903]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.19-19.35.13:790][903]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.19-19.35.13:790][903]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.19-19.35.13:790][903]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.19-19.35.13:790][903]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.19-19.35.13:790][903]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.19-19.35.13:790][903]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.19-19.35.13:791][903]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.19-19.35.13:791][903]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.19-19.35.13:796][903]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.19-19.35.13:796][903]LogAudioMixer: Display: 1: FrontRight
+[2021.02.19-19.35.13:809][903]LogAudioMixer: Display: Using Audio Device Speakers (3- USB PnP Sound Device)
+[2021.02.19-19.35.13:809][903]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.19-19.35.13:809][903]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.19-19.35.13:809][903]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.19-19.35.13:810][903]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.19-19.35.13:810][903]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.19-19.35.13:810][903]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.02.19-19.35.13:825][903]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.19-19.35.13:825][903]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.19-19.35.13:825][903]LogInit: FAudioDevice initialized.
+[2021.02.19-19.35.13:825][903]LogAudio: Display: Audio Device (ID: 17) registered with world 'ThirdPersonExampleMap'.
+[2021.02.19-19.35.13:832][903]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.02.19-19.35.13:835][903]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonGreystone/Characters/Heroes/Greystone/Greystone_AnimBlueprint.Greystone_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonGreystone/Characters/Heroes/Greystone/Greystone_AnimBlueprint.Greystone_AnimBlueprint_C:ExecuteUbergraph_Greystone_AnimBlueprint
+
+[2021.02.19-19.35.13:835][903]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.02.19-21.35.13
+[2021.02.19-19.35.13:836][903]LogWorld: Bringing up level for play took: 0.003012
+[2021.02.19-19.35.13:836][903]LogOnline: OSS: Creating online subsystem instance for: :Context_52
+[2021.02.19-19.35.13:838][903]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonGreystone/Characters/Heroes/Greystone/Greystone_AnimBlueprint.Greystone_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonGreystone/Characters/Heroes/Greystone/Greystone_AnimBlueprint.Greystone_AnimBlueprint_C:ExecuteUbergraph_Greystone_AnimBlueprint
+
+[2021.02.19-19.35.13:840][903]PIE: Server logged in
+[2021.02.19-19.35.13:840][903]PIE: Play in editor total start time 0.114 seconds.
+[2021.02.19-19.35.16:064][150]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/LevelStart_Montage.LevelStart_Montage'
+[2021.02.19-19.35.16:064][150]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/LevelStart_Montage.LevelStart_Montage'
+[2021.02.19-19.35.16:064][150]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/LevelStart_Montage.LevelStart_Montage'
+[2021.02.19-19.35.35:528][640]LogBlueprintUserMessages: [GreystonePlayerCharacter_2] 10.0
+[2021.02.19-19.36.24:376][673]LogBlueprintUserMessages: [GreystonePlayerCharacter_2] 10.0
+[2021.02.19-19.36.24:972][742]LogBlueprintUserMessages: [GreystonePlayerCharacter_2] 10.0
+[2021.02.19-19.36.25:841][844]LogBlueprintUserMessages: [GreystonePlayerCharacter_2] 10.0
+[2021.02.19-19.36.26:900][970]LogBlueprintUserMessages: [GreystonePlayerCharacter_2] 10.0
+[2021.02.19-19.36.29:835][315]LogBlueprintUserMessages: [GreystonePlayerCharacter_2] 10.0
+[2021.02.19-19.36.30:432][385]LogBlueprintUserMessages: [GreystonePlayerCharacter_2] 10.0
+[2021.02.19-19.36.31:302][488]LogBlueprintUserMessages: [GreystonePlayerCharacter_2] 10.0
+[2021.02.19-19.36.32:353][612]LogBlueprintUserMessages: [GreystonePlayerCharacter_2] 10.0
+[2021.02.19-19.36.32:958][684]LogBlueprintUserMessages: [GreystonePlayerCharacter_2] 10.0
+[2021.02.19-19.42.38:524][494]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.19-19.42.38:524][494]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.02.19-19.42.38:525][494]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.19-19.42.38:525][494]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.19-19.42.38:553][494]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.19-19.42.38:575][494]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.19-19.42.38:602][494]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.19-19.42.38:602][494]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.19-19.42.38:603][494]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.19-19.42.38:626][494]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2021.02.19-19.42.38:707][495]LogPlayLevel: Display: Destroying online subsystem :Context_52
