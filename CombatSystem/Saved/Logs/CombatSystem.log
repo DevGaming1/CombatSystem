@@ -4222,3 +4222,18 @@ Script call stack:
 [2021.02.19-19.42.38:603][494]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2021.02.19-19.42.38:626][494]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
 [2021.02.19-19.42.38:707][495]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2021.02.19-19.51.06:806][676]LogEditorViewport: Clicking on Actor (LMB): GreystonePlayerCharacter_C (GreystonePlayerCharacter)
+[2021.02.19-19.51.06:968][688]LogEditorViewport: Clicking on Actor (context menu): GreystonePlayerCharacter_C (GreystonePlayerCharacter)
+[2021.02.19-19.51.13:139][409]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.02.19-19.51.15:799][695]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Greystone_AnimBlueprint)
+[2021.02.19-19.51.28:527][124]LogEditorViewport: Clicking on Actor (LMB): GreystonePlayerCharacter_C (GreystonePlayerCharacter)
+[2021.02.19-19.51.50:607][401]LogEditorViewport: Clicking on Actor (context menu): GreystonePlayerCharacter_C (GreystonePlayerCharacter)
+[2021.02.19-19.52.10:465][456]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.02.19-19.53.42:501][ 62]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.02.19-19.54.15:463][518]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.02.19-19.55.09:293][468]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
+[2021.02.19-19.55.09:299][468]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.114
+[2021.02.19-19.55.09:301][468]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode] ([1] browsable assets)...
+[2021.02.19-19.55.09:301][468]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode]
+[2021.02.19-19.55.09:314][468]LogSavePackage: Moving '../../../../../Unreal_Projects/CombatSystem/CombatSystem/Saved/ThirdPersonGameMode_Auto331D34597419FD2A980D00C8C09CE85FF.tmp' to '../../../../../Unreal_Projects/CombatSystem/CombatSystem/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode_Auto3.uasset'
+[2021.02.19-19.55.09:315][468]LogFileHelpers: Auto-saving content packages took 0.015
